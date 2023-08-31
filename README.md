@@ -2,6 +2,11 @@
 
 This project is the culmination of my learning journey from a tutorial on YouTube: [Tutorial Link](https://www.youtube.com/watch?v=5miHyP6lExg&t=18s&ab_channel=CodeWithAntonio). The tutorial provided the guidance to create a Store Dashboard.
 
+## View the Project
+
+You can view the web application live at: [https://ken-store-ecommerce.vercel.app/](https://ecommerce-store-admin-nu.vercel.app/)
+
+
 ## Learning Highlights
 
 During the process of creating this project, I gained valuable insights into several key areas:
