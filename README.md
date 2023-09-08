@@ -5,6 +5,7 @@ This project is the culmination of my learning journey from a tutorial on YouTub
 ## View the Project
 
 You can view the web application live at: [https://ken-store-ecommerce.vercel.app/](https://ecommerce-store-admin-nu.vercel.app/)
+Test Accout username: testAccount passwaord: Testaccount@01
 
 
 ## Learning Highlights
